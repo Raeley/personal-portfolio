@@ -1,0 +1,16 @@
+h1 {
+  color: blueviolet;
+}
+.a{
+  color:brown;
+  font-size:32px;
+}
+.b{
+  color:fuchsia;
+}
+@media screen and(min-width:480px){
+  body{
+    background-color:black;
+    color:white;
+  }
+}
